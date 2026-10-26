@@ -126,6 +126,9 @@ MiniAgent 支持多种任务类型：
 可选的免 Parallel API key 网页搜索与内容提取，请查看
 [Parallel Search MCP 集成](docs/parallel-search.md)（Python 3.10+）。
 
+可选的免 API key 网页发布（将代理生成的 HTML 发布为公开页面），请查看
+[deed.page MCP 集成](docs/deed-page.md)（Python 3.10+）。
+
 ## 📚 文档导航
 
 ### 🚀 新手必读
